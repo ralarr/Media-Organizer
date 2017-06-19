@@ -1,3 +1,5 @@
+# Created by ralarr on 05/2015
+
 #!/bin/bash
 
 logFunc()
