@@ -1,1 +1,2 @@
 # Media-Organizer
+A script that loops through a directory of media files, gets their creation date from their metadata, creates new directory structure for year, month and day, renames the file including the camera make, model and the date the photo/video was taken then copies or moves the files based on a parameter passed by the user. If the file already exists checks to see if they're exactly the same file, if not appends a counter to the end of the name.
